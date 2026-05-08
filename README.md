@@ -98,11 +98,7 @@ Assembly is designed to be simple and modular.
 
 Cooling is provided by a 60×60mm fan powered from 5V.
 
-The enclosure includes hexagonal side cutouts which:
-
-- Improve airflow
-- Reduce internal temperatures
-- Keep fan noise low
+The enclosure includes hexagonal side cutouts which improve airflow.
 
 ---
 
