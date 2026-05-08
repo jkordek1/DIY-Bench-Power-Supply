@@ -64,12 +64,12 @@ This makes it easy to adapt the enclosure for different power supply configurati
 
 The enclosure consists of 7 separate parts:
 
-1. Enclosure body
-2. Front panel
-3. Mesh base
-4. Two small back feet
-5. Front elevation feet
-6. Back panel
+1. Enclosure body (490g)
+2. Front panel (26g)
+3. Mesh base (40g)
+4. Two small back feet (2x1g)
+5. Front elevation feet (28g)
+6. Back panel (45g)
 
 ---
 
