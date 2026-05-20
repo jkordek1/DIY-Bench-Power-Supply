@@ -4,7 +4,7 @@ A modular 3D-printed laboratory power supply designed for educational environmen
 
 ---
 
-![DIY Laboratory Power Supply Render](Renders/Render2.png)
+![DIY Laboratory Power Supply Render](Renders/Render1.png)
 
 ---
 
